@@ -1,17 +1,9 @@
-# Team100-Century
-# TeamID-SampleProject
-This is a template for CS411 project repository. Please make sure that your title follows the convention: [TeamID]-[YourTeamName]. All TeamID should have a three digit coding (i.e. if you are team 20, you should have `team020` as your ID.). You should also make sure that your url for this repository is [fa23-cs411-team000-teamname.git] so TAs can correctly clone your repository and keep them up-to-date.
+## Project Summary
 
-Once you setup your project, please remember to submit your team formation to the team form.
+CourseOverflow is a centralized platform for all CS questions for UIUC courses. 
 
-## Permission
-You should make sure you allow TAs to access your repository. You can add TA(s) as a collaborator to your repository.
+The goal of our application is for university students to be able to easily access questions for courses they have previously taken, or courses they have not taken but want to learn more about. Our project will be built on an existing StackOverflow dataset to create test functionality and a new database will be linked to the project website– this database will be populated with questions specific to selected UIUC Computer Science courses. Our new database will allow the creation of a singular platform for students to access relevant questions that have previously been asked for the selected courses. This is a classroom-specific feature for our application, but it can be utilized in other industries as a secondary source of Computer Science-related FAQ.
 
-## Preparing for your release
-Eash submission should be in it's own [release](https://docs.github.com/en/repositories/releasing-projects-on-github/about-releases). Release are specific freezes to your repository. You should submit your commit hash on canvas or google sheet. When tagging your stage, please use the tag `stage.x` where x is the number to represent the stage.
 
-## Keeping things up-to-date
-You should make sure you keep your project root files up-to-date. Information for each file/folders are explained.
+Our project aims at eventually centralizing all the current platforms that students use for asking questions about their courses, such as Piazza, Ed, and Campuswire. This will help students easily access solutions to their questions, and decrease the workload on professors and course assistants. 
 
-## Code Contribution
-Individual code contribution will be used to evaluate individual contribution to the project.
